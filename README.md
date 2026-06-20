@@ -1,4 +1,4 @@
-# Beecrowd - Python
+# Beecrowd 
 
 ## Descrição
 
