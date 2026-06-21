@@ -1,6 +1,6 @@
 Valor = float(input())
 a = 0
-while ((Valor//100)%99):
+while ((Valor//100)%99): 
     Valor -100
     a=a+1
     
